@@ -1,22 +1,25 @@
-MindBloom/
+
+SudokuQuest
 │
-├── src/
-│   ├── app/
-│   ├── controllers/
-│   ├── models/
-│   ├── puzzles/
-│   ├── ui/
-│   ├── database/
-│   ├── audio/
-│   └── assets/
+├── src
+│   └── com
+│       └── sudokuquest
+│            │
+│            ├── MainGame.java
+│            ├── SceneManager.java
+│            ├── Player.java
+│            │
+│            ├── controllers
+│            │      LoginController.java
+│            │
+│            ├── models
+│            ├── ui
+│            └── utils
 │
-├── resources/
-│   ├── images/
-│   ├── sprites/
-│   ├── sounds/
-│   └── fonts/
+├── resources
+│      Login.fxml
+│      styles.css
+│      images
+│      sounds
 │
-├── database/
-│   └── mindbloom.db
-│
-└── README.md
+└── module-info.java
