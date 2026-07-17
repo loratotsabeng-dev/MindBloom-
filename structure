@@ -1,0 +1,22 @@
+MindBloom/
+│
+├── src/
+│   ├── app/
+│   ├── controllers/
+│   ├── models/
+│   ├── puzzles/
+│   ├── ui/
+│   ├── database/
+│   ├── audio/
+│   └── assets/
+│
+├── resources/
+│   ├── images/
+│   ├── sprites/
+│   ├── sounds/
+│   └── fonts/
+│
+├── database/
+│   └── mindbloom.db
+│
+└── README.md
